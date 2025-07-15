@@ -29,5 +29,7 @@ Then, I set realVout to ((5/1023) * vRaw) which will showcase voltage from 0V - 
 Finally, I used Serial.print to print out realVout. I then added the delay function so that the changing voltage would be displayed every second. 
 
 Below shows the serial monitor output. 
+
+
 <img width="133" height="216" alt="POTENTIOMETERS_serial_monitor" src="https://github.com/user-attachments/assets/cd3a9c22-c705-4d44-9a45-7bf0adcdb66b" />
 

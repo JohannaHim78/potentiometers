@@ -3,9 +3,7 @@ int vPin = A5;
 int vRaw; 
 float realVout; 
 
-//LED management 
 int timeDelay = 1000; 
-int outputPin = 6; 
 
 void setup() {
   Serial.begin(9600);

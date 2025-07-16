@@ -2,12 +2,14 @@
 
 This project contains a simple circuit that prints changing voltage onto the arduino serial monitor. 
 
+
 **Components used** 
 
  - Arduino Uno Rev3
  - Jumper wires 
  - 10k ohm potentiometer
  - Breadboard 
+
 
 **Breakdown of Circuit**
 
@@ -17,7 +19,9 @@ This project contains a simple circuit that prints changing voltage onto the ard
    there is a wire that connects from the output leg to analog pin A5.
 
 Below is an image of the circuit: 
+
 ![potentiometers_circuit](https://github.com/user-attachments/assets/69dd5bba-ab1c-4809-bf13-89946db4cd6e)
+
 
 **Breakdown of Code** 
 
@@ -35,6 +39,7 @@ Finally, I used Serial.print to print out realVout. I then added the delay funct
 Below shows the serial monitor output. 
 
 <img width="133" height="216" alt="POTENTIOMETERS_serial_monitor" src="https://github.com/user-attachments/assets/cd3a9c22-c705-4d44-9a45-7bf0adcdb66b" />
+
 
 **What I Learned** 
 

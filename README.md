@@ -30,6 +30,10 @@ Finally, I used Serial.print to print out realVout. I then added the delay funct
 
 Below shows the serial monitor output. 
 
-
 <img width="133" height="216" alt="POTENTIOMETERS_serial_monitor" src="https://github.com/user-attachments/assets/cd3a9c22-c705-4d44-9a45-7bf0adcdb66b" />
+
+**What I Learned** 
+I understand now that a potentiometer is a useful tool that helps vary resistance in real time. This short project helped me 
+learn how to wire a potentiometer as well as creating a circuit diagram including a potentiometer. 
+
 

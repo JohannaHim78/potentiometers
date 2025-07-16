@@ -1,4 +1,5 @@
 **INTRO TO POTENTIOMETERS**
+
 This project contains a simple circuit that prints changing voltage onto the arduino serial monitor. 
 
 **Components used** 
